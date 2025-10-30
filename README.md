@@ -6,7 +6,7 @@ Entrada:
 - Adicionar: 5
 - Remover: 3
 
-# Saída parcial:
+### Saída parcial:
 Dados do produto: TV, $ 900.00, 10 unidades, Total: $ 9000.00
 
 Dados atualizados: TV, $ 900.00, 15 unidades, Total: $ 13500.00
